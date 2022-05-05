@@ -2,7 +2,7 @@
 <h1> Calculadora IMC 🖩 </h1>
 
 
-<h3>Projeto simples, com intuido de estudos utilizando React-Native | Expo</h3>
+<h3>Projeto simples, com intuito de estudos utilizando React-Native | Expo</h3>
 
 <p>Interface</p>
 
