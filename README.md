@@ -4,4 +4,4 @@
 
 <h3>Projeto simples, com intuido de estudos utilizando React-Native | Expo</h3>
 
-![Interface do Aplicativo](interface.jpeg)[width=0.5\textwidth]
+![Interface do Aplicativo](interface.jpeg)[imagem]: interface.jpeg {: height="36px" width="36px"}
