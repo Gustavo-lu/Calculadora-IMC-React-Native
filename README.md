@@ -6,4 +6,4 @@
 
 <p>Interface</p>
 
-<img src="interface.jpeg" width="285" height="600">
+<img src="interface.jpeg" width="300" height="600">
